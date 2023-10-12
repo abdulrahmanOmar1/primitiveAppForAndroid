@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My ApplicationL7</string>
+    <string-array name="books">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+
+    </string-array>
+</resources>
